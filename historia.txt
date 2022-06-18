@@ -4,3 +4,5 @@ Luis Miguel Espinoza tiene 32 años y nació en el Perú
 en la provincia de Juliaca, departamento de Puno.
 
 Hoy hablaremos de su historia.
+
+El es un desarrollador de software, con conocimientos en JavaScript.
