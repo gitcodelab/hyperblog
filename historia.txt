@@ -6,3 +6,5 @@ en la provincia de Juliaca, departamento de Puno.
 Hoy hablaremos de su historia.
 
 El es un desarrollador de software, con conocimientos en JavaScript.
+
+Por ahora esta sin empleo.
